@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+    display: flex;
+    justify-content: center;
+}
+
+.app{
+    background-color: gray;
+    box-shadow: purple;
+    border-radius: 25%;
+    
+}
+
+input{
+    padding: 5px;
+    margin-right: 5px;
+}
